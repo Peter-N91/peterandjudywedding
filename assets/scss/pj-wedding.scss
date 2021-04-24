@@ -1,0 +1,117 @@
+/*
+=========================================================
+* BLK Design System Angular - v1.2.0
+=========================================================
+
+* Product Page: https://www.creative-tim.com/product/blk-design-system-angular
+* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Licensed under MIT
+
+* Coded by Creative Tim
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
+
+// Core
+
+@import "pj-wedding/custom/functions";
+@import "pj-wedding/bootstrap/functions";
+
+@import "pj-wedding/custom/variables";
+@import "pj-wedding/bootstrap/variables";
+
+@import "pj-wedding/custom/mixins";
+@import "pj-wedding/bootstrap/mixins";
+
+// Bootstrap components
+
+@import "pj-wedding/bootstrap/root";
+@import "pj-wedding/bootstrap/reboot";
+@import "pj-wedding/bootstrap/type";
+@import "pj-wedding/bootstrap/images";
+@import "pj-wedding/bootstrap/code";
+@import "pj-wedding/bootstrap/grid";
+@import "pj-wedding/bootstrap/tables";
+@import "pj-wedding/bootstrap/forms";
+@import "pj-wedding/bootstrap/buttons";
+@import "pj-wedding/bootstrap/transitions";
+@import "pj-wedding/bootstrap/dropdown";
+@import "pj-wedding/bootstrap/button-group";
+@import "pj-wedding/bootstrap/input-group";
+@import "pj-wedding/bootstrap/custom-forms";
+@import "pj-wedding/bootstrap/nav";
+@import "pj-wedding/bootstrap/navbar";
+@import "pj-wedding/bootstrap/card";
+@import "pj-wedding/bootstrap/breadcrumb";
+@import "pj-wedding/bootstrap/pagination";
+@import "pj-wedding/bootstrap/badge";
+@import "pj-wedding/bootstrap/jumbotron";
+@import "pj-wedding/bootstrap/alert";
+@import "pj-wedding/bootstrap/progress";
+@import "pj-wedding/bootstrap/media";
+@import "pj-wedding/bootstrap/list-group";
+@import "pj-wedding/bootstrap/close";
+@import "pj-wedding/bootstrap/modal";
+@import "pj-wedding/bootstrap/tooltip";
+@import "pj-wedding/bootstrap/popover";
+@import "pj-wedding/bootstrap/carousel";
+@import "pj-wedding/bootstrap/utilities";
+@import "pj-wedding/bootstrap/print";
+
+// Custom components
+
+@import "pj-wedding/custom/alerts.scss";
+@import "pj-wedding/custom/buttons.scss";
+@import "pj-wedding/custom/dropdown.scss";
+@import "pj-wedding/custom/footer.scss";
+@import "pj-wedding/custom/forms.scss";
+@import "pj-wedding/custom/images.scss";
+@import "pj-wedding/custom/modal.scss";
+@import "pj-wedding/custom/navbar.scss";
+@import "pj-wedding/custom/type.scss";
+@import "pj-wedding/custom/icons.scss";
+@import "pj-wedding/custom/tables";
+@import "pj-wedding/custom/checkboxes-radio";
+@import "pj-wedding/custom/fixed-plugin";
+@import "pj-wedding/custom/pagination.scss";
+@import "pj-wedding/custom/misc.scss";
+@import "pj-wedding/custom/rtl.scss";
+@import "pj-wedding/custom/input-group.scss";
+@import "pj-wedding/custom/example-pages.scss";
+@import "pj-wedding/custom/progress.scss";
+@import "pj-wedding/custom/badge.scss";
+@import "pj-wedding/custom/pills.scss";
+@import "pj-wedding/custom/tabs.scss";
+@import "pj-wedding/custom/info-areas.scss";
+
+// Sections
+@import "pj-wedding/custom/sections.scss";
+
+// Vendor / Plugins
+
+@import "pj-wedding/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "pj-wedding/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "pj-wedding/custom/vendor/plugin-bootstrap-switch.scss";
+@import "pj-wedding/custom/vendor/plugin-nouislider.scss";
+@import "pj-wedding/custom/vendor/plugin-datetimepicker.scss";
+
+// Cards
+
+@import "pj-wedding/custom/card";
+@import "pj-wedding/custom/cards/card-chart";
+@import "pj-wedding/custom/cards/card-map";
+@import "pj-wedding/custom/cards/card-user";
+@import "pj-wedding/custom/cards/card-task";
+@import "pj-wedding/custom/cards/card-plain";
+@import "pj-wedding/custom/cards/card-register";
+@import "pj-wedding/custom/cards/card-stats";
+@import "pj-wedding/custom/cards/card-chart";
+
+// Angular changes
+@import "pj-wedding/angular/tabs";
+@import "pj-wedding/angular/pills";
+@import "pj-wedding/angular/alerts";
+@import "pj-wedding/angular/datepicker";
+@import "pj-wedding/angular/example-pages";
